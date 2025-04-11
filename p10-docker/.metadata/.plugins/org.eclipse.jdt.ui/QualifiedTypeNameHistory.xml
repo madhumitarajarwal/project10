@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.rays.dao.CustomerDAOImpl"/>
+    <fullyQualifiedTypeName name="com.rays.common.BaseCtl"/>
+    <fullyQualifiedTypeName name="com.rays.dto.CustomerDTO"/>
+    <fullyQualifiedTypeName name="com.rays.form.CustomerForm"/>
+    <fullyQualifiedTypeName name="com.rays.validation.ValidLong"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+</qualifiedTypeNameHistroy>
